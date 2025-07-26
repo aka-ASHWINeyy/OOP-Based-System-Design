@@ -148,3 +148,6 @@ O – Open/Closed: You can extend the system (e.g., add Admin role) without modi
 L – Liskov Substitution: Subclasses (Student, Instructor) can be used anywhere a User is expected.
 I – Interface Segregation: Implicitly followed by not forcing unused methods on classes.
 D – Dependency Inversion: Higher-level modules like Course depend on abstraction (User) not concrete Student/Instructor.
+
+## UML DIAGRAM :
+<img width="927" height="853" alt="Screenshot 2025-07-26 093039" src="https://github.com/user-attachments/assets/263b3366-6eff-4455-95a8-8051cc6ff92f" />
